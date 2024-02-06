@@ -1,6 +1,6 @@
 # Welcome to My Projects Details
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For full documentation visit [shusilkarki.com.np](http://www.shusilkarki.com).
 
 ## Commands
 

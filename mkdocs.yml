@@ -1,5 +1,14 @@
 site_name: Shusil Karki Projects
+nav:
+    - Home: index.md
+    - 'Projectes Done' :
+      - 'IME Life' : 'project/ime-life.md'
+      - 'Premium Technologies' : 'project/premium.md'
+      - 'Nepal Police' : 'project/nepalpolice.md'
+    - 'System Used' :
+      - 'System1' : 'system/sys1.md'
+      - 'System2' : 'system/sys2.md'
 theme:
   name: material
 extra_css:
-  - docs/stylesheets/extra.css
+  - stylesheets/extra.css

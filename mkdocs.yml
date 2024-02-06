@@ -1,4 +1,5 @@
 site_name: Shusil Karki Projects
 theme:
   name: material
-
+extra_css:
+  - docs/stylesheets/extra.css

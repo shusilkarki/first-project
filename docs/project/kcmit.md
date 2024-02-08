@@ -1,5 +1,6 @@
-# <center>__IME Life Insurance__</center>
-<center> <h3>"A prominent life insurance company in Nepal..." </h3></center>
+<h1>Lorem Ipsum</h1>
+
+<h3>"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."</h3>
 <p>"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non metus nec nibh mattis elementum. Quisque mollis placerat nunc nec lobortis. Duis non arcu at risus ultrices tempus. Nulla diam quam, suscipit sit amet rutrum at, imperdiet at nisl. Sed tempor pellentesque ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit commodo ultricies. Fusce feugiat dolor eu rhoncus porta. Curabitur quis ex egestas magna laoreet hendrerit. Quisque rutrum libero eget lectus rhoncus, non mattis justo euismod. Donec gravida quis diam eu ultricies. Phasellus elementum fermentum maximus.</p>
 
@@ -11,22 +12,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non metus nec n
 
 <p>Suspendisse vel purus quis dui rutrum posuere. Proin blandit turpis vel vestibulum consequat. Nullam venenatis tempor magna. Vestibulum id condimentum erat, sed feugiat eros. Vivamus mattis euismod mattis. Maecenas lacinia est eu elit scelerisque luctus. Aliquam interdum ipsum quis massa vehicula tincidunt. Integer eu dui iaculis, dignissim enim in, lacinia neque. Nam lacinia facilisis quam non consectetur. Maecenas fringilla est sed est faucibus placerat. Aliquam ultrices augue a leo facilisis ullamcorper et quis mi. Donec ornare venenatis velit, euismod rutrum orci lacinia sit amet. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
 
-## Devices IP Address with username and password :
-
-| IP ADDRESS    | SERVICE NAME      | USERNAME | PASSWORD | Remarks |
-| ------------- | ----------------- | -------- | -------- | ------- |
-| 172.16.10.201 | Physical Server 1 | root     | password | re      |
-| 172.16.10.200 | Physical Server 2 | root     | password | re      |
-| 172.16.10.201 | Physical Server 1 | root     | password | re      |
-| 172.16.10.200 | Physical Server 2 | root     | password | re      |
-| 172.16.10.201 | Physical Server 1 | root     | password | re      |
-| 172.16.10.200 | Physical Server 2 | root     | password | re      |
-| 172.16.10.201 | Physical Server 1 | root     | password | re      |
-| 172.16.10.200 | Physical Server 2 | root     | password | re      |
-| 172.16.10.201 | Physical Server 1 | root     | password | re      |
-| 172.16.10.200 | Physical Server 2 | root     | password | re      |
-| 172.16.10.201 | Physical Server 1 | root     | password | re      |
-
-
 <h4>Generated 5 paragraphs, 453 words, 3078 bytes of Lorem Ipsum</h4>
-

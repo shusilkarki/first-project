@@ -1,14 +1,26 @@
-site_name: Shusil Karki Projects
+site_name: Green Cube Technologies
+
 nav:
     - Home: index.md
     - 'Projectes Done' :
       - 'IME Life' : 'project/ime-life.md'
       - 'Premium Technologies' : 'project/premium.md'
       - 'Nepal Police' : 'project/nepalpolice.md'
+      - 'KCMIT College' : 'project/kcmit.md'
     - 'System Used' :
-      - 'System1' : 'system/sys1.md'
-      - 'System2' : 'system/sys2.md'
+      - 'Network Monitoring' : 'system/monitoring.md'
+      - 'Ticketing System' : 'system/ticketing.md'
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+
+
 theme:
   name: material
+  logo: images/gct_logo.png
+  
+
 extra_css:
   - stylesheets/extra.css
